@@ -1,6 +1,6 @@
 # Olá, eu sou o Ricardo! 👋
 <br>
-> Estudante de Engenharia de Software e entusiasta de Cyber Segurança. | Construindo soluções robustas e seguras.
+> Estudante de Engenharia de Software e entusiasta de Cyber Segurança. 
 <br>
 
 - 🚀 Atualmente aprofundando meus conhecimentos em **Linux, Redes e Cyber Segurança**.
